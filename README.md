@@ -191,6 +191,39 @@ Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTIN
 
 To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
 
+## 👥 Contributors
+
+Thanks to all our wonderful contributors who make this project possible!
+<a href="https://github.com/holasoymalva/awesome-programming-books/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=holasoymalva/awesome-programming-books" />
+</a>
+Made with contrib.rocks.
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+### Hall of Fame
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/holasoymalva">
+        <img src="https://avatars.githubusercontent.com/u/13058234?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>holasoymalva</b></sub>
+      </a>
+      <br />
+      <sub>Project Creator</sub>
+    </td>
+    <!-- Add more contributors here -->
+  </tr>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## 🙏 Acknowledgments
 
 Thanks to all authors who freely share their knowledge and to the community for their valuable contributions.

@@ -20,6 +20,14 @@ This is an **Awesome** repository that collects free programming books officiall
 - [Operating Systems and Networks](#-operating-systems-and-networks)
 - [Contributions](#-contributions)
 
+## 🌟 Highlights
+
+- 100% Free and legal content
+- Verified high-quality resources
+- Regularly updated
+- Organized by technology and skill level
+- Multi-language support
+
 ---
 
 ## 📌 JavaScript

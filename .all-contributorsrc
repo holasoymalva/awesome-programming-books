@@ -1,0 +1,44 @@
+{
+  "projectName": "awesome-programming-books",
+  "projectOwner": "holasoymalva",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "holasoymalva",
+      "name": "Malva",
+      "avatar_url": "https://avatars.githubusercontent.com/holasoymalva",
+      "profile": "https://github.com/holasoymalva",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "contributorsSortAlphabetically": true,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/github/all-contributors/holasoymalva/awesome-programming-books?color=ee8449&style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "doc": {
+      "symbol": "📖",
+      "description": "Documentation"
+    },
+    "maintenance": {
+      "symbol": "🚧",
+      "description": "Maintenance"
+    },
+    "content": {
+      "symbol": "🔋",
+      "description": "Content"
+    }
+  }
+}

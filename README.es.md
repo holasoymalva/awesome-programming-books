@@ -2,6 +2,10 @@
 
 Este es un repositorio de tipo **Awesome**, que recopila libros de programación gratuitos y oficialmente disponibles por sus autores o editores. Puedes acceder a ellos de manera legal sin infringir derechos de autor.
 
+🌍 Este repositorio está disponible en varios idiomas:
+- 🇬🇧 **[English Version](README.md)**
+- 🇪🇸 **Versión en Español (Estás aquí)**
+
 ## 📚 Tabla de Contenidos
 - [JavaScript](#-javascript)
 - [Python](#-python)

@@ -194,9 +194,11 @@ To the extent possible under law, contributors have waived all copyright and rel
 ## 👥 Contributors
 
 Thanks to all our wonderful contributors who make this project possible!
+
 <a href="https://github.com/holasoymalva/awesome-programming-books/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=holasoymalva/awesome-programming-books" />
-</a>
+</a><br/>
+
 Made with contrib.rocks.
 
 Made with [contrib.rocks](https://contrib.rocks).

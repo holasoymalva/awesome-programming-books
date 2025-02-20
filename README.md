@@ -2,6 +2,11 @@
 
 This is an **Awesome** repository that collects free programming books officially made available by their authors or publishers. You can access them legally without violating copyright laws.
 
+🌍 This repository is available in multiple languages:
+- 🇪🇸 **[Versión en Español](README.es.md)**
+- 🇬🇧 **English Version (You are here)**
+
+
 ## 📚 Table of Contents
 - [JavaScript](#-javascript)
 - [Python](#-python)

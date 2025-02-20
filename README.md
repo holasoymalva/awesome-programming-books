@@ -1,4 +1,4 @@
-# 😎 Awesome Free Programming Books
+# Awesome Free Programming Books
 
 This is an **Awesome** repository that collects free programming books officially made available by their authors or publishers. You can access them legally without violating copyright laws.
 

@@ -8,17 +8,26 @@ This is an **Awesome** repository that collects free programming books officiall
 
 
 ## 📚 Table of Contents
-- [JavaScript](#-javascript)
-- [Python](#-python)
-- [C and C++](#-c-and-c)
-- [Java](#-java)
-- [Data Structures and Algorithms](#-data-structures-and-algorithms)
-- [Data Science and Machine Learning](#-data-science-and-machine-learning)
-- [Web Development (Frontend & Backend)](#-web-development-frontend--backend)
-- [Security and Ethical Hacking](#-security-and-ethical-hacking)
-- [Databases and SQL](#-databases-and-sql)
-- [Operating Systems and Networks](#-operating-systems-and-networks)
+
+- [By Programming Language](#by-programming-language)
+  - [JavaScript](#-javascript)
+  - [Python](#-python)
+  - [C and C++](#-c-and-c)
+  - [Java](#-java)
+- [By Topic](#by-topic)
+  - [Data Structures and Algorithms](#-data-structures-and-algorithms)
+  - [Data Science and Machine Learning](#-data-science-and-machine-learning)
+  - [Web Development (Frontend & Backend)](#-web-development-frontend--backend)
+  - [Security and Ethical Hacking](#-security-and-ethical-hacking)
+  - [Databases and SQL](#-databases-and-sql)
+  - [Operating Systems and Networks](#-operating-systems-and-networks)
+  - 
+- [By Level](#by-level)
+
 - [Contributions](#-contributions)
+- [License](#license)
+
+
 
 ## 🌟 Highlights
 

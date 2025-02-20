@@ -140,6 +140,28 @@ This is an **Awesome** repository that collects free programming books officiall
 ---
 
 ## 🤝 Contributions
-If you know of more free and officially available books, feel free to **submit a Pull Request** or suggest them in the community! 😊
 
-🎨 **Coming soon**: Book cover images, GitHub badges, and visual improvements for a better experience.
+Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting your pull request.
+
+### How to Contribute
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/new-category`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new category'`)
+5. Push to the branch (`git push origin feature/new-category`)
+6. Open a Pull Request
+
+## ⚖️ License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
+
+## 🙏 Acknowledgments
+
+Thanks to all authors who freely share their knowledge and to the community for their valuable contributions.
+
+---
+
+⭐️ If you like this project, don't forget to give it a star!

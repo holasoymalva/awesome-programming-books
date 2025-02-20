@@ -39,7 +39,9 @@ This is an **Awesome** repository that collects free programming books officiall
 
 ---
 
-## 📌 JavaScript
+## 🚀 By Programming Language
+
+### 📌 JavaScript
 - **[Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke**  
   Learn JavaScript from fundamentals to advanced concepts, with interactive exercises.
 
@@ -82,9 +84,7 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Node.js Design Patterns](https://www.packtpub.com/free-ebook/nodejs-design-patterns) - Mario Casciaro**  
   Learn design patterns in Node.js.
 
----
-
-## 📌 Python
+### 📌 Python
 - **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart**  
   Learn to automate tasks with Python practically.
 
@@ -103,9 +103,7 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Learn Python the Hard Way](https://learnpythonthehardway.org/) - Zed Shaw**  
   A hands-on approach to learning Python.
 
----
-
-## 📌 C and C++
+### 📌 C and C++
 - **[The C Programming Language (2nd Edition) - Kernighan & Ritchie (Not free officially)]**  
   📌 *This book is not free, but you can find alternatives like:*
   
@@ -122,9 +120,8 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action) - Anthony Williams**  
   A book on concurrency and parallelism in C++.
 
----
 
-## 📌 Java
+### 📌 Java
 - **[Think Java](https://greenteapress.com/wp/think-java/) - Allen B. Downey and Chris Mayfield**  
   A beginner-friendly introduction to Java.
 
@@ -137,7 +134,43 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Java Concurrency in Practice](https://www.oreilly.com/library/view/java-concurrency-in/9780137142521/) - Brian Goetz**  
   Advanced concepts on concurrency in Java.
 
----
+
+## 💡 By Topic
+
+### Web Development
+- Frontend Development
+- Backend Development
+- Full Stack
+- APIs & Microservices
+
+### Data Science
+- Machine Learning
+- Data Analysis
+- Statistics
+- Big Data
+
+### DevOps
+- Cloud Computing
+- Containers
+- CI/CD
+- Infrastructure as Code
+
+## 📊 By Level
+
+### 🌱 Beginner
+- Programming fundamentals
+- Basic algorithms
+- Simple data structures
+
+### 🌿 Intermediate
+- Design patterns
+- Testing
+- Optimization
+
+### 🌳 Advanced
+- Software architecture
+- Distributed systems
+- Security
 
 ## 🤝 Contributions
 

@@ -199,8 +199,6 @@ Thanks to all our wonderful contributors who make this project possible!
   <img src="https://contrib.rocks/image?repo=holasoymalva/awesome-programming-books" />
 </a><br/>
 
-Made with contrib.rocks.
-
 Made with [contrib.rocks](https://contrib.rocks).
 
 ### Hall of Fame

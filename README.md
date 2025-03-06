@@ -25,11 +25,11 @@ This is an **Awesome** repository that collects free programming books officiall
   - [Security and Ethical Hacking](#-security-and-ethical-hacking)
   - [Databases and SQL](#-databases-and-sql)
   - [Operating Systems and Networks](#-operating-systems-and-networks)
-  - 
 - [By Level](#by-level)
   - [🌱 Beginner]()
   - [🌿 Intermediate]()
   - [🌳 Advanced]()
+- [By Soft Skills]()
 
 - [Contributions](#-contributions)
 - [License](#license)

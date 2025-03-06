@@ -23,6 +23,9 @@ This is an **Awesome** repository that collects free programming books officiall
   - [Operating Systems and Networks](#-operating-systems-and-networks)
   - 
 - [By Level](#by-level)
+  - [🌱 Beginner]()
+  - [🌿 Intermediate]()
+  - [🌳 Advanced]()
 
 - [Contributions](#-contributions)
 - [License](#license)
@@ -158,9 +161,24 @@ This is an **Awesome** repository that collects free programming books officiall
 ## 📊 By Level
 
 ### 🌱 Beginner
-- Programming fundamentals
-- Basic algorithms
-- Simple data structures
+
+#### 📖 Programming Fundamentals
+- **[The CS50x Course Materials](https://cs50.harvard.edu/x/)** - Harvard University's introductory computer science course, free and open to all.
+- **[How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/)** - Allen B. Downey - A fundamental introduction to computational thinking and Python.
+- **[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)** - Harold Abelson & Gerald Jay Sussman - A foundational book for understanding programming paradigms.
+- **[Computer Science from the Bottom Up](https://www.bottomupcs.com/)** - Ian Wienand - A free book covering foundational computer science topics from low-level programming to high-level concepts.
+
+#### 🧩 Basic Algorithms
+- **[Algorithms, Part I & II (Princeton University)](https://algs4.cs.princeton.edu/home/)** - Robert Sedgewick & Kevin Wayne - Free online courses covering essential algorithmic techniques.
+- **[The Algorithm Design Manual](http://www.algorist.com/)** - Steven Skiena - Covers both theoretical and practical aspects of algorithms.
+- **[A Common-Sense Guide to Data Structures and Algorithms](https://www.commonlounge.com/discussion/eb9f24de5ea34cbeb6b22b86dc0f2bc1)** - Jay Wengrow - A beginner-friendly book on algorithms and data structures.
+- **[Open Data Structures](http://opendatastructures.org/)** - Pat Morin - A free and comprehensive introduction to data structures.
+
+#### 📦 Simple Data Structures
+- **[Think Data Structures](https://greenteapress.com/wp/think-data-structures/)** - Allen B. Downey - A beginner's guide to fundamental data structures using Java.
+- **[Problem Solving with Algorithms and Data Structures](https://runestone.academy/ns/books/published/pythonds3/index.html)** - Brad Miller & David Ranum - A free interactive book covering Python-based data structures and algorithms.
+- **[Data Structures and Algorithm Analysis in Java](https://people.cs.vt.edu/shaffer/Book/)** - Clifford A. Shaffer - A detailed introduction to data structures with Java.
+
 
 ### 🌿 Intermediate
 - Design patterns

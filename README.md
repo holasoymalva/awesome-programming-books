@@ -16,7 +16,11 @@ This is an **Awesome** repository that collects free programming books officiall
   - [Java](#-java)
 - [By Topic](#by-topic)
   - [Data Structures and Algorithms](#-data-structures-and-algorithms)
-  - [Data Science and Machine Learning](#-data-science-and-machine-learning)
+  - [ 📊 Data Science and Machine Learning](#-data-science-and-machine-learning)
+    - Data Analysis
+    - Machine Learning
+    - Statistics
+    - Big Data
   - [Web Development (Frontend & Backend)](#-web-development-frontend--backend)
   - [Security and Ethical Hacking](#-security-and-ethical-hacking)
   - [Databases and SQL](#-databases-and-sql)
@@ -146,11 +150,74 @@ This is an **Awesome** repository that collects free programming books officiall
 - Full Stack
 - APIs & Microservices
 
-### Data Science
-- Machine Learning
-- Data Analysis
-- Statistics
-- Big Data
+## 📊 Data Science and Machine Learning
+
+### 📖 Data Science
+- **[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan**  
+  Introducción a los fundamentos matemáticos y algorítmicos de la ciencia de datos.
+
+- **[Data Science at the Command Line](https://datascienceatthecommandline.com/) - Jeroen Janssens**  
+  Cómo realizar análisis de datos usando herramientas de línea de comandos.
+
+- **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas**  
+  Una guía práctica para análisis de datos en Python usando NumPy, Pandas, Matplotlib y Scikit-Learn.
+
+- **[Data Science for Business](https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall07/reading/bigdata.pdf) - Foster Provost, Tom Fawcett**  
+  Explicación de cómo utilizar la ciencia de datos para tomar decisiones en negocios.
+
+### 📖 Machine Learning
+- **[Pattern Recognition and Machine Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Christopher M. Bishop**  
+  Introducción teórica y práctica a los modelos de aprendizaje automático.
+
+- **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman**  
+  Un libro de referencia para aprendizaje estadístico con aplicaciones en machine learning.
+
+- **[Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
+  Un libro exhaustivo sobre deep learning, escrito por líderes del campo.
+
+- **[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz, Shai Ben-David**  
+  Una introducción matemática al aprendizaje automático y sus algoritmos.
+
+### 📖 Data Analysis
+- **[Think Stats](https://greenteapress.com/thinkstats2/) - Allen B. Downey**  
+  Introducción al análisis estadístico con Python.
+
+- **[Think Bayes](https://greenteapress.com/thinkbayes2/) - Allen B. Downey**  
+  Aprende probabilidad Bayesiana con ejemplos en Python.
+
+- **[Introduction to Data Science](https://openintro-ims.netlify.app/) - Rafael A. Irizarry**  
+  Explicación clara y práctica de conceptos fundamentales en ciencia de datos.
+
+- **[Data Wrangling with Python](https://www.pybonacci.org/wp-content/uploads/2017/06/Data-Wrangling-with-Python.pdf) - Jacqueline Kazil, Katharine Jarmul**  
+  Guía sobre limpieza y transformación de datos con Python.
+
+### 📖 Statistics
+- **[OpenIntro Statistics](https://www.openintro.org/book/os/) - David M. Diez, Mine Çetinkaya-Rundel, Christopher D. Barr**  
+  Introducción completa a estadística con aplicaciones prácticas.
+
+- **[Statistical Learning with Sparsity](https://web.stanford.edu/~hastie/StatLearnSparsity/) - Trevor Hastie, Robert Tibshirani, Martin Wainwright**  
+  Métodos modernos de aprendizaje estadístico.
+
+- **[An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani**  
+  Explicación intuitiva de modelos de machine learning con estadística.
+
+- **[Mathematical Statistics](https://github.com/dohmatob/mathematical-statistics) - Jun Shao**  
+  Explicación rigurosa de conceptos de estadística y probabilidad.
+
+### 📖 Big Data
+- **[Big Data: Principles and Best Practices](https://www.oreilly.com/library/view/big-data-principles/9780133813029/) - Nathan Marz, James Warren**  
+  Introducción a la arquitectura de Big Data y procesamiento de datos a gran escala.
+
+- **[Mining of Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeffrey Ullman**  
+  Libro clásico sobre técnicas para manejar grandes volúmenes de datos.
+
+- **[Introduction to Hadoop and Spark](https://homes.cs.washington.edu/~magda/courses/CSE414/18wi/slides/lec26.pdf) - Magda Balazinska**  
+  Explicación de cómo usar Hadoop y Spark en procesamiento de datos.
+
+- **[Fundamentals of Data Engineering](https://dataengineeringbook.com/) - Joe Reis, Matt Housley**  
+  Guía de referencia sobre ingeniería de datos moderna y su impacto en Big Data.
+
+---
 
 ### DevOps
 - Cloud Computing

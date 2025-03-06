@@ -154,68 +154,68 @@ This is an **Awesome** repository that collects free programming books officiall
 
 ### 📖 Data Science
 - **[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan**  
-  Introducción a los fundamentos matemáticos y algorítmicos de la ciencia de datos.
+  Introduction to the mathematical and algorithmic foundations of data science.
 
 - **[Data Science at the Command Line](https://datascienceatthecommandline.com/) - Jeroen Janssens**  
-  Cómo realizar análisis de datos usando herramientas de línea de comandos.
+  How to perform data analysis using command-line tools.
 
 - **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas**  
-  Una guía práctica para análisis de datos en Python usando NumPy, Pandas, Matplotlib y Scikit-Learn.
+  A practical guide for data analysis in Python using NumPy, Pandas, Matplotlib, and Scikit-Learn.
 
 - **[Data Science for Business](https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall07/reading/bigdata.pdf) - Foster Provost, Tom Fawcett**  
-  Explicación de cómo utilizar la ciencia de datos para tomar decisiones en negocios.
+  Explanation of how to use data science for business decision-making.
 
 ### 📖 Machine Learning
 - **[Pattern Recognition and Machine Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Christopher M. Bishop**  
-  Introducción teórica y práctica a los modelos de aprendizaje automático.
+  A theoretical and practical introduction to machine learning models.
 
 - **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman**  
-  Un libro de referencia para aprendizaje estadístico con aplicaciones en machine learning.
+  A reference book on statistical learning with applications in machine learning.
 
 - **[Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
-  Un libro exhaustivo sobre deep learning, escrito por líderes del campo.
+  A comprehensive book on deep learning, written by leaders in the field.
 
 - **[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz, Shai Ben-David**  
-  Una introducción matemática al aprendizaje automático y sus algoritmos.
+  A mathematical introduction to machine learning and its algorithms.
 
 ### 📖 Data Analysis
 - **[Think Stats](https://greenteapress.com/thinkstats2/) - Allen B. Downey**  
-  Introducción al análisis estadístico con Python.
+  Introduction to statistical analysis with Python.
 
 - **[Think Bayes](https://greenteapress.com/thinkbayes2/) - Allen B. Downey**  
-  Aprende probabilidad Bayesiana con ejemplos en Python.
+  Learn Bayesian probability with Python examples.
 
 - **[Introduction to Data Science](https://openintro-ims.netlify.app/) - Rafael A. Irizarry**  
-  Explicación clara y práctica de conceptos fundamentales en ciencia de datos.
+  A clear and practical explanation of fundamental data science concepts.
 
 - **[Data Wrangling with Python](https://www.pybonacci.org/wp-content/uploads/2017/06/Data-Wrangling-with-Python.pdf) - Jacqueline Kazil, Katharine Jarmul**  
-  Guía sobre limpieza y transformación de datos con Python.
+  A guide to data cleaning and transformation with Python.
 
 ### 📖 Statistics
 - **[OpenIntro Statistics](https://www.openintro.org/book/os/) - David M. Diez, Mine Çetinkaya-Rundel, Christopher D. Barr**  
-  Introducción completa a estadística con aplicaciones prácticas.
+  A complete introduction to statistics with practical applications.
 
 - **[Statistical Learning with Sparsity](https://web.stanford.edu/~hastie/StatLearnSparsity/) - Trevor Hastie, Robert Tibshirani, Martin Wainwright**  
-  Métodos modernos de aprendizaje estadístico.
+  Modern methods of statistical learning.
 
 - **[An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani**  
-  Explicación intuitiva de modelos de machine learning con estadística.
+  An intuitive explanation of machine learning models using statistics.
 
 - **[Mathematical Statistics](https://github.com/dohmatob/mathematical-statistics) - Jun Shao**  
-  Explicación rigurosa de conceptos de estadística y probabilidad.
+  A rigorous explanation of statistical and probability concepts.
 
 ### 📖 Big Data
 - **[Big Data: Principles and Best Practices](https://www.oreilly.com/library/view/big-data-principles/9780133813029/) - Nathan Marz, James Warren**  
-  Introducción a la arquitectura de Big Data y procesamiento de datos a gran escala.
+  Introduction to Big Data architecture and large-scale data processing.
 
 - **[Mining of Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeffrey Ullman**  
-  Libro clásico sobre técnicas para manejar grandes volúmenes de datos.
+  A classic book on techniques for handling large volumes of data.
 
 - **[Introduction to Hadoop and Spark](https://homes.cs.washington.edu/~magda/courses/CSE414/18wi/slides/lec26.pdf) - Magda Balazinska**  
-  Explicación de cómo usar Hadoop y Spark en procesamiento de datos.
+  Explanation of how to use Hadoop and Spark for data processing.
 
 - **[Fundamentals of Data Engineering](https://dataengineeringbook.com/) - Joe Reis, Matt Housley**  
-  Guía de referencia sobre ingeniería de datos moderna y su impacto en Big Data.
+  A reference guide on modern data engineering and its impact on Big Data.
 
 ---
 
@@ -246,71 +246,116 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Problem Solving with Algorithms and Data Structures](https://runestone.academy/ns/books/published/pythonds3/index.html)** - Brad Miller & David Ranum - A free interactive book covering Python-based data structures and algorithms.
 - **[Data Structures and Algorithm Analysis in Java](https://people.cs.vt.edu/shaffer/Book/)** - Clifford A. Shaffer - A detailed introduction to data structures with Java.
 
+### 🌿 Intermediate
 
-## 🌿 Intermediate
-
-### 📖 Design Patterns
+#### 📖 Design Patterns
 - **[Design Patterns Explained](https://ptgmedia.pearsoncmg.com/images/9780321247148/samplepages/0321247140.pdf) - Alan Shalloway & James R. Trott**  
-  Explicación clara y accesible de patrones de diseño con ejemplos en distintos lenguajes.
+  A clear and accessible explanation of design patterns with examples in different programming languages.
   
 - **[Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom**  
-  Libro gratuito que explica patrones de diseño aplicados al desarrollo de videojuegos.
+  A free book that explains design patterns applied to game development.
 
 - **[Refactoring Guru: Design Patterns](https://refactoring.guru/design-patterns) - Alexander Shvets**  
-  Explicaciones detalladas de los patrones de diseño más utilizados en el desarrollo de software.
+  Detailed explanations of the most commonly used design patterns in software development.
 
-### 📖 Testing
+#### 📖 Testing
 - **[Test-Driven Development by Example](https://www.obeythetestinggoat.com/book/praise.harry.html) - Kent Beck**  
-  Una introducción práctica al desarrollo guiado por pruebas.
+  A practical introduction to test-driven development.
 
 - **[Growing Object-Oriented Software, Guided by Tests](https://www.obeythetestinggoat.com/) - Steve Freeman & Nat Pryce**  
-  Muestra cómo construir software orientado a objetos utilizando pruebas automatizadas.
+  Demonstrates how to build object-oriented software using automated tests.
 
 - **[The Little Book of Testing](https://www.tcl.tk/doc/lbf/) - Johannes Link**  
-  Un enfoque pragmático sobre técnicas y estrategias de testing en software.
+  A pragmatic approach to testing techniques and strategies in software development.
 
-### 📖 Optimization
+#### 📖 Optimization
 - **[Computer Systems: A Programmer’s Perspective](https://csapp.cs.cmu.edu/) - Randal E. Bryant & David R. O’Hallaron**  
-  Profundiza en cómo el hardware y los sistemas afectan el rendimiento del software.
+  Explores how hardware and systems impact software performance.
 
 - **[Performance Analysis and Tuning on Modern CPUs](https://www.agner.org/optimize/microarchitecture.pdf) - Agner Fog**  
-  Explica optimización de código para arquitecturas modernas de CPU.
+  Explains code optimization for modern CPU architectures.
 
 - **[Efficient Python Programming](https://arxiv.org/pdf/2001.00116.pdf) - Maciej Gębala**  
-  Estrategias avanzadas para optimizar el rendimiento de Python.
+  Advanced strategies for optimizing Python performance.
 
 
-## 🌳 Advanced
+### 🌳 Advanced
 
-### 📖 Software Architecture
+#### 📖 Software Architecture
 - **[Software Architecture Patterns](https://www.oreilly.com/content/software-architecture-patterns/) - Mark Richards**  
-  Introducción a los patrones arquitectónicos más comunes.
+  Introduction to the most common software architecture patterns.
 
 - **[Clean Architecture](https://github.com/eduardohitek/clean-architecture-book) - Robert C. Martin**  
-  Principios de arquitectura de software basada en buenas prácticas.
+  Software architecture principles based on best practices.
 
 - **[The Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Various Authors**  
-  Explora arquitecturas de software de código abierto con estudios de caso.
+  Explores open-source software architectures with real-world case studies.
 
-### 📖 Distributed Systems
+#### 📖 Distributed Systems
 - **[Distributed Systems: Principles and Paradigms](http://infolab.stanford.edu/~ullman/fcdb/course.html) - Andrew S. Tanenbaum & Maarten Van Steen**  
-  Explica los fundamentos de sistemas distribuidos y arquitecturas.
+  Explains the fundamentals of distributed systems and architectures.
 
 - **[Designing Data-Intensive Applications](https://dataintensive.net/) - Martin Kleppmann**  
-  Aborda patrones y arquitecturas de bases de datos y sistemas escalables.
+  Covers patterns and architectures for scalable databases and systems.
 
 - **[Google’s Site Reliability Engineering](https://sre.google/books/) - Google SRE Team**  
-  Explica las prácticas de Google para gestionar infraestructura distribuida.
+  Explains Google's practices for managing distributed infrastructure.
 
-### 📖 Security
+#### 📖 Security
 - **[The Web Application Hacker's Handbook](https://websecurityacademy.net/) - Dafydd Stuttard & Marcus Pinto**  
-  Guía completa sobre seguridad en aplicaciones web.
+  A comprehensive guide to web application security.
 
 - **[Crypto 101](https://crypto101.io/) - Laurens Van Houtven**  
-  Introducción a criptografía moderna de forma práctica.
+  A practical introduction to modern cryptography.
 
 - **[Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) - Ross Anderson**  
-  Explica la ingeniería de seguridad aplicada a distintos sistemas.
+  Explains security engineering principles applied to various systems.
+
+---
+
+## 🌟 Soft Skills for Developers
+
+Beyond coding, interpersonal and communication skills are essential for professional growth. Here is a selection of free books on soft skills that will help you improve collaboration, leadership, and time management in the software development world.
+
+### 📖 Communication & Teamwork
+- **[The Scrum Guide](https://scrumguides.org/) - Ken Schwaber & Jeff Sutherland**  
+  The official guide to Scrum, an agile framework for teamwork in software development.
+
+- **[The Art of Readable Code](https://github.com/dspinellis/ReadableCode) - Dustin Boswell & Trevor Foucher**  
+  Practical advice on writing clear and maintainable code to enhance team collaboration.
+
+- **[Working in Public: The Making and Maintenance of Open Source Software](https://www.holloway.com/g/working-in-public/) - Nadia Eghbal**  
+  Insights into effective collaboration in open-source projects and community maintenance.
+
+- **[The Programmer’s Guide to Effective Communication](https://thevaluable.dev/programmer-guide-effective-communication/) - Jason L. Perry**  
+  Communication strategies tailored for programmers and technical teams.
+
+### 📖 Leadership & Career Growth
+- **[The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973888/) - Camille Fournier**  
+  A roadmap for transitioning from software developer to technical leadership.
+
+- **[Ego is the Enemy](https://www.pdfdrive.com/ego-is-the-enemy-d186613154.html) - Ryan Holiday**  
+  A guide on overcoming ego and embracing continuous learning for professional success.
+
+- **[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Eric S. Raymond**  
+  A deep dive into leadership and collaboration in the open-source software world.
+
+### 📖 Productivity & Time Management
+- **[Time Management for System Administrators](https://www.oreilly.com/library/view/time-management-for/9780596007836/) - Thomas A. Limoncelli**  
+  Time management techniques designed for IT professionals.
+
+- **[The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) - Francesco Cirillo**  
+  A simple yet powerful time management method based on focused work intervals.
+
+- **[Deep Work](https://calnewport.com/books/deep-work/) - Cal Newport**  
+  A guide to improving focus and concentration for mastering complex tasks.
+
+### 📖 Creativity & Problem-Solving
+- **[The War of Art](https://stevenpressfield.com/books/the-war-of-art/) - Steven Pressfield**  
+  Insights on overcoming creative blocks and achieving excellence in software development.
+
+- **[A Whack on the Side of the Head](https://www.creativethinking.net/) - Roger von Oech**  
+  Techniques to boost creativity and find innovative solutions to technical challenges.
 
 ---
 

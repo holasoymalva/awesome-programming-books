@@ -29,7 +29,7 @@ This is an **Awesome** repository that collects free programming books officiall
   - [🌱 Beginner]()
   - [🌿 Intermediate]()
   - [🌳 Advanced]()
-- [By Soft Skills]()
+- [🌟 Soft Skills for Developers]()
 
 - [Contributions](#-contributions)
 - [License](#license)

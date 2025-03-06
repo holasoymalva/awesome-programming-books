@@ -313,52 +313,6 @@ This is an **Awesome** repository that collects free programming books officiall
 
 ---
 
-## 🌟 Soft Skills for Developers
-
-Beyond coding, interpersonal and communication skills are essential for professional growth. Here is a selection of free books on soft skills that will help you improve collaboration, leadership, and time management in the software development world.
-
-### 📖 Communication & Teamwork
-- **[The Scrum Guide](https://scrumguides.org/) - Ken Schwaber & Jeff Sutherland**  
-  The official guide to Scrum, an agile framework for teamwork in software development.
-
-- **[The Art of Readable Code](https://github.com/dspinellis/ReadableCode) - Dustin Boswell & Trevor Foucher**  
-  Practical advice on writing clear and maintainable code to enhance team collaboration.
-
-- **[Working in Public: The Making and Maintenance of Open Source Software](https://www.holloway.com/g/working-in-public/) - Nadia Eghbal**  
-  Insights into effective collaboration in open-source projects and community maintenance.
-
-- **[The Programmer’s Guide to Effective Communication](https://thevaluable.dev/programmer-guide-effective-communication/) - Jason L. Perry**  
-  Communication strategies tailored for programmers and technical teams.
-
-### 📖 Leadership & Career Growth
-- **[The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973888/) - Camille Fournier**  
-  A roadmap for transitioning from software developer to technical leadership.
-
-- **[Ego is the Enemy](https://www.pdfdrive.com/ego-is-the-enemy-d186613154.html) - Ryan Holiday**  
-  A guide on overcoming ego and embracing continuous learning for professional success.
-
-- **[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Eric S. Raymond**  
-  A deep dive into leadership and collaboration in the open-source software world.
-
-### 📖 Productivity & Time Management
-- **[Time Management for System Administrators](https://www.oreilly.com/library/view/time-management-for/9780596007836/) - Thomas A. Limoncelli**  
-  Time management techniques designed for IT professionals.
-
-- **[The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) - Francesco Cirillo**  
-  A simple yet powerful time management method based on focused work intervals.
-
-- **[Deep Work](https://calnewport.com/books/deep-work/) - Cal Newport**  
-  A guide to improving focus and concentration for mastering complex tasks.
-
-### 📖 Creativity & Problem-Solving
-- **[The War of Art](https://stevenpressfield.com/books/the-war-of-art/) - Steven Pressfield**  
-  Insights on overcoming creative blocks and achieving excellence in software development.
-
-- **[A Whack on the Side of the Head](https://www.creativethinking.net/) - Roger von Oech**  
-  Techniques to boost creativity and find innovative solutions to technical challenges.
-
----
-
 ## 🤝 Contributions
 
 Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting your pull request.

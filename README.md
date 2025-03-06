@@ -180,15 +180,72 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Data Structures and Algorithm Analysis in Java](https://people.cs.vt.edu/shaffer/Book/)** - Clifford A. Shaffer - A detailed introduction to data structures with Java.
 
 
-### 🌿 Intermediate
-- Design patterns
-- Testing
-- Optimization
+## 🌿 Intermediate
 
-### 🌳 Advanced
-- Software architecture
-- Distributed systems
-- Security
+### 📖 Design Patterns
+- **[Design Patterns Explained](https://ptgmedia.pearsoncmg.com/images/9780321247148/samplepages/0321247140.pdf) - Alan Shalloway & James R. Trott**  
+  Explicación clara y accesible de patrones de diseño con ejemplos en distintos lenguajes.
+  
+- **[Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom**  
+  Libro gratuito que explica patrones de diseño aplicados al desarrollo de videojuegos.
+
+- **[Refactoring Guru: Design Patterns](https://refactoring.guru/design-patterns) - Alexander Shvets**  
+  Explicaciones detalladas de los patrones de diseño más utilizados en el desarrollo de software.
+
+### 📖 Testing
+- **[Test-Driven Development by Example](https://www.obeythetestinggoat.com/book/praise.harry.html) - Kent Beck**  
+  Una introducción práctica al desarrollo guiado por pruebas.
+
+- **[Growing Object-Oriented Software, Guided by Tests](https://www.obeythetestinggoat.com/) - Steve Freeman & Nat Pryce**  
+  Muestra cómo construir software orientado a objetos utilizando pruebas automatizadas.
+
+- **[The Little Book of Testing](https://www.tcl.tk/doc/lbf/) - Johannes Link**  
+  Un enfoque pragmático sobre técnicas y estrategias de testing en software.
+
+### 📖 Optimization
+- **[Computer Systems: A Programmer’s Perspective](https://csapp.cs.cmu.edu/) - Randal E. Bryant & David R. O’Hallaron**  
+  Profundiza en cómo el hardware y los sistemas afectan el rendimiento del software.
+
+- **[Performance Analysis and Tuning on Modern CPUs](https://www.agner.org/optimize/microarchitecture.pdf) - Agner Fog**  
+  Explica optimización de código para arquitecturas modernas de CPU.
+
+- **[Efficient Python Programming](https://arxiv.org/pdf/2001.00116.pdf) - Maciej Gębala**  
+  Estrategias avanzadas para optimizar el rendimiento de Python.
+
+
+## 🌳 Advanced
+
+### 📖 Software Architecture
+- **[Software Architecture Patterns](https://www.oreilly.com/content/software-architecture-patterns/) - Mark Richards**  
+  Introducción a los patrones arquitectónicos más comunes.
+
+- **[Clean Architecture](https://github.com/eduardohitek/clean-architecture-book) - Robert C. Martin**  
+  Principios de arquitectura de software basada en buenas prácticas.
+
+- **[The Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Various Authors**  
+  Explora arquitecturas de software de código abierto con estudios de caso.
+
+### 📖 Distributed Systems
+- **[Distributed Systems: Principles and Paradigms](http://infolab.stanford.edu/~ullman/fcdb/course.html) - Andrew S. Tanenbaum & Maarten Van Steen**  
+  Explica los fundamentos de sistemas distribuidos y arquitecturas.
+
+- **[Designing Data-Intensive Applications](https://dataintensive.net/) - Martin Kleppmann**  
+  Aborda patrones y arquitecturas de bases de datos y sistemas escalables.
+
+- **[Google’s Site Reliability Engineering](https://sre.google/books/) - Google SRE Team**  
+  Explica las prácticas de Google para gestionar infraestructura distribuida.
+
+### 📖 Security
+- **[The Web Application Hacker's Handbook](https://websecurityacademy.net/) - Dafydd Stuttard & Marcus Pinto**  
+  Guía completa sobre seguridad en aplicaciones web.
+
+- **[Crypto 101](https://crypto101.io/) - Laurens Van Houtven**  
+  Introducción a criptografía moderna de forma práctica.
+
+- **[Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) - Ross Anderson**  
+  Explica la ingeniería de seguridad aplicada a distintos sistemas.
+
+---
 
 ## 🤝 Contributions
 

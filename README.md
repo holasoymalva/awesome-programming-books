@@ -144,11 +144,47 @@ This is an **Awesome** repository that collects free programming books officiall
 
 ## 💡 By Topic
 
-### Web Development
-- Frontend Development
-- Backend Development
-- Full Stack
-- APIs & Microservices
+### 🌐 Web Development
+
+#### 🎨 Frontend Development
+- **[HTML and CSS: Learn to Code](https://learn.shayhowe.com/html-css/) - Shay Howe**  
+  A beginner’s guide to building websites with HTML and CSS.
+
+- **[Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - Cody Lindley**  
+  Covers tools, workflows, and trends in frontend development.
+
+- **[JavaScript for Beginners](https://www.javascript.com/learn) - Pluralsight**  
+  Interactive tutorials to learn JavaScript basics for the frontend.
+
+#### 🔧 Backend Development
+- **[Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes**  
+  A practical guide to backend development with Node.js.
+
+- **[The Little Elixir and OTP Guidebook](https://joyofelixir.com/) - Ryan Bigg**  
+  A gentle introduction to Elixir and concurrent backend systems.
+
+- **[Build APIs with Django](https://buildwithdjango.com/) - Will Vincent**  
+  Guide to creating backend APIs using Django (Python).
+
+#### 🌐 Full Stack
+- **[Full Stack Open](https://fullstackopen.com/en/) - University of Helsinki**  
+  A free and comprehensive course covering modern web development with React, Node.js, GraphQL, and TypeScript.
+
+- **[The Odin Project](https://www.theodinproject.com/) - Open Source Contributors**  
+  Free full stack curriculum including HTML, CSS, JavaScript, Node, and databases.
+
+- **[FreeCodeCamp](https://www.freecodecamp.org/) - Quincy Larson & Community**  
+  Learn full stack web development with interactive exercises and projects.
+
+#### 🔌 APIs & Microservices
+- **[Designing Web APIs](https://www.oreilly.com/library/view/designing-web-apis/9781492026927/) - Brenda Jin, Saurabh Sahni, Amir Shevat**  
+  A practical guide to designing and building APIs.
+
+- **[API Security in Action](https://livebook.manning.com/book/api-security-in-action/about-this-book/) - Neil Madden**  
+  Learn how to secure modern APIs (free chapters available).
+
+- **[Microservices from the Ground Up](https://leanpub.com/microservices) - Jonathan Fulton**  
+  An introduction to microservices architecture.
 
 ## 📊 Data Science and Machine Learning
 
@@ -245,6 +281,8 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Think Data Structures](https://greenteapress.com/wp/think-data-structures/)** - Allen B. Downey - A beginner's guide to fundamental data structures using Java.
 - **[Problem Solving with Algorithms and Data Structures](https://runestone.academy/ns/books/published/pythonds3/index.html)** - Brad Miller & David Ranum - A free interactive book covering Python-based data structures and algorithms.
 - **[Data Structures and Algorithm Analysis in Java](https://people.cs.vt.edu/shaffer/Book/)** - Clifford A. Shaffer - A detailed introduction to data structures with Java.
+- **[Open Data Structures](http://opendatastructures.org/) - Pat Morin**  
+  A book covering essential data structures with practical examples.
 
 ### 🌿 Intermediate
 

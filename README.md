@@ -253,13 +253,47 @@ This is an **Awesome** repository that collects free programming books officiall
 - **[Fundamentals of Data Engineering](https://dataengineeringbook.com/) - Joe Reis, Matt Housley**  
   A reference guide on modern data engineering and its impact on Big Data.
 
----
+### ⚙️ DevOps
 
-### DevOps
-- Cloud Computing
-- Containers
-- CI/CD
-- Infrastructure as Code
+#### ☁️ Cloud Computing
+- **[The Cloud Resume Challenge Book](https://cloudresumechallenge.dev/docs/the-book/) - Forrest Brazeal**  
+  A hands-on project-based book to get started with cloud technologies.
+
+- **[Introduction to Cloud Computing](https://www.ibm.com/cloud/learn/cloud-computing) - IBM Cloud Docs**  
+  Beginner-friendly tutorials and guides about cloud services and architecture.
+
+- **[Azure for Students](https://microsoft.github.io/AzureForStudents/) - Microsoft**  
+  Learn how to build on Azure cloud using free tools and credits.
+
+#### 🐳 Containers
+- **[Docker Curriculum](https://docker-curriculum.com/) - Prakhar Srivastav**  
+  A comprehensive, hands-on guide to learning Docker from scratch.
+
+- **[Kubernetes By Example](https://kubernetesbyexample.com/) - Red Hat**  
+  Learn Kubernetes through real-world examples and scenarios.
+
+- **[Learn Docker](https://www.docker.com/101-tutorial) - Docker, Inc.**  
+  Official Docker beginner tutorials.
+
+#### 🔁 CI/CD
+- **[CI/CD with Jenkins](https://www.jenkins.io/doc/book/) - Jenkins Project**  
+  The official Jenkins documentation, ideal for learning continuous integration.
+
+- **[Continuous Delivery with GitLab](https://docs.gitlab.com/ee/ci/) - GitLab Docs**  
+  Learn about CI/CD pipelines using GitLab.
+
+- **[CI/CD for Beginners](https://www.redhat.com/en/topics/devops/what-is-ci-cd) - Red Hat**  
+  An introductory explanation of CI/CD and DevOps practices.
+
+#### 🛠️ Infrastructure as Code
+- **[Learn Terraform](https://learn.hashicorp.com/collections/terraform/aws-get-started) - HashiCorp**  
+  Hands-on tutorials to deploy infrastructure using Terraform.
+
+- **[Ansible for DevOps](https://www.ansiblefordevops.com/) - Jeff Geerling**  
+  A practical guide to automation with Ansible (Free HTML version available).
+
+- **[The Infrastructure as Code Handbook](https://www.infracoders.com/iac-handbook/) - Infracoders Community**  
+  A concise resource explaining core IaC concepts and tools.
 
 ## 📊 By Level
 

@@ -93,7 +93,7 @@ This is an **Awesome** repository that collects free programming books officiall
   Learn design patterns in Node.js.
 
 ### 📌 TypeScript
-- **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Gibbok** — A free and open-source TypeScript book with 10,300+ GitHub stars, covering fundamentals through advanced concepts.
+- **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Poggiali Simone** — A free and open-source TypeScript book, covering fundamentals through advanced concepts.
 
 ### 📌 Python
 - **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart**  

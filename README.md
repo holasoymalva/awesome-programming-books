@@ -11,6 +11,7 @@ This is an **Awesome** repository that collects free programming books officiall
 
 - [By Programming Language](#by-programming-language)
   - [JavaScript](#-javascript)
+  - [TypeScript](#-typescript)
   - [Python](#-python)
   - [C and C++](#-c-and-c)
   - [Java](#-java)
@@ -90,6 +91,9 @@ This is an **Awesome** repository that collects free programming books officiall
 
 - **[Node.js Design Patterns](https://www.packtpub.com/free-ebook/nodejs-design-patterns) - Mario Casciaro**  
   Learn design patterns in Node.js.
+
+### 📌 TypeScript
+- **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Poggiali Simone** — A free and open-source TypeScript book, covering fundamentals through advanced concepts.
 
 ### 📌 Python
 - **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart**  

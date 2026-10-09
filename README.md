@@ -202,10 +202,10 @@ This is an **Awesome** repository that collects free programming books officiall
   Explanation of how to use data science for business decision-making.
 
 ### 📖 Machine Learning
-- **[Pattern Recognition and Machine Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Christopher M. Bishop**  
+- **[Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) - Christopher M. Bishop**  
   A theoretical and practical introduction to machine learning models.
 
-- **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman**  
+- **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman**  
   A reference book on statistical learning with applications in machine learning.
 
 - **[Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
